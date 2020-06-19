@@ -1,0 +1,3 @@
+C:\Users\Thieu\source\repos\AppComicAPI\AppComicAPI\obj\Debug\AppComicAPI.njsprojAssemblyReference.cache
+C:\Users\Thieu\source\repos\AppComicAPI\AppComicAPI\obj\Debug\AppComicAPI.njsproj.CoreCompileInputs.cache
+C:\Users\Thieu\source\repos\AppComicAPI\AppComicAPI\bin\Microsoft.NodejsTools.WebRole.dll
