@@ -8,11 +8,11 @@
 //    }
 
         database: {
-            host: 'bkldgtplzooeb3l2nh6r-mysql.services.clever-cloud.com',
-            user: 'ubehngywoaetyu45',
+            host: 'bhfayy0khlcy4nh0kmoz-mysql.services.clever-cloud.com',
+            user: 'u1ygmmkhjayr7kmq',
             password: '20Yo9OEZK4YXViqtmkKv',
             port: 3306,
-            db: 'bkldgtplzooeb3l2nh6r'
+            db: 'bhfayy0khlcy4nh0kmoz'
         }
     
 } 
